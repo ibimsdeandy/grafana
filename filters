@@ -1,2 +1,3 @@
 {instance="wse-php"} |= `error`
 {instance="wse-php"} |= `notice`
+{instance="wse-php"} |= `warning`
